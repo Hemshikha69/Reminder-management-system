@@ -1,0 +1,51 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  form {
+    width: 100%;
+  }
+  
+  .form-row {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input,
+  select,
+  textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  
